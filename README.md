@@ -15,7 +15,13 @@
 <ol>
   <li>Open the project with your code editor</li>
   <li>You can change the MySQL connection string on line 5 in <strong>Program.cs</strong></li>
-  <li>Enter the number of records you want to be created into the GenerateUser, GenerateAdmin and GenerateSuperadmin methods on lines 14, 15 and 16</li>
+  <ul>
+    <li>MySQL Database Name: fakeusersdb</li>
+    <li>MySQL Database Username: root (default)<li>
+    <li>MySQL Database Password: none (default)</li>
+    <li>MySQL Table Name: user</li>
+  </ul>
+  <li>Enter the number of records you want to be created into the GenerateUser method on lines 12</li>
   <li>Run the program</li>
   <li>The number of records you specify will be added to the database</li>
 </ol>
