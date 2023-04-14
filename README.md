@@ -17,7 +17,7 @@
   <li>You can change the MySQL connection string on line 5 in <strong>Program.cs</strong></li>
   <ul>
     <li>MySQL Database Name: fakeusersdb</li>
-    <li>MySQL Database Username: root (default)<li>
+    <li>MySQL Database Username: root (default)</li>
     <li>MySQL Database Password: none (default)</li>
     <li>MySQL Table Name: user</li>
   </ul>
