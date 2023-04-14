@@ -9,18 +9,18 @@
 <h3>Database</h3>
 <ul>
   <li>Import the MySQL database in the repository to your own database</li>
-</ul>
-
-# Usage
-<ol>
-  <li>Open the project with your code editor</li>
-  <li>You can change the MySQL connection string on line 5 in <strong>Program.cs</strong></li>
   <ul>
     <li><strong>MySQL Database Name:</strong> fakeusersdb</li>
     <li><strong>MySQL Database Username:</strong> root (default)</li>
     <li><strong>MySQL Database Password:</strong> none (default)</li>
     <li><strong>MySQL Table Name:</strong> user</li>
   </ul>
+</ul>
+
+# Usage
+<ol>
+  <li>Open the project with your code editor</li>
+  <li>You can change the MySQL connection string on line 5 in <strong>Program.cs</strong></li>
   <li>Enter the number of records you want to be created into the GenerateUser method on lines 12</li>
   <li>Run the program</li>
   <li>The number of records you specify will be added to the database</li>
